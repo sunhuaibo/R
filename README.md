@@ -13,3 +13,5 @@
     labels=rownames(Prestige), xlim=c(0, 25000), center.pch="+",
     group.labels=c("Blue Collar", "Professional", "White Collar"),
     ylim=c(5, 20), level=.95, fill=TRUE, fill.alpha=0.1))
+
+* [stringi](http://www.gagolewski.com/software/stringi/) - 字符转处理神器，优于stringr
