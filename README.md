@@ -16,5 +16,5 @@
 
 * [stringi](http://www.gagolewski.com/software/stringi/) - 字符转处理神器，优于stringr
 * [igraph](http://igraph.org/r/) - 绘制network
-* [rCircos](https://cran.r-project.org/web/packages/RCircos/index.html)__ - R package for circular plots.
-* [OmicCircos](http://www.bioconductor.org/packages/release/bioc/html/OmicCircos.html)__ -  R package for circular plots for omics data.
+* [rCircos](https://cran.r-project.org/web/packages/RCircos/index.html) - R package for circular plots.
+* [OmicCircos](http://www.bioconductor.org/packages/release/bioc/html/OmicCircos.html) -  R package for circular plots for omics data.
