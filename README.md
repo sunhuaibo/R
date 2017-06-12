@@ -23,4 +23,4 @@
 * [gganimate](https://github.com/dgrtwo/gganimate) - 动态图
 * [magrittr](https://github.com/tidyverse/magrittr) - hadley大神写的-管道操作符
 * [psych](http://personality-project.org/r/psych/) - 统计分析常用包
-* [karyoploteR](http://bioconductor.org/packages/release/bioc/vignettes/karyoploteR/inst/doc/karyoploteR.html) - plot customizable linear genomes displaying arbitrary data 绘制任意的线性基因组图
+* [karyoploteR](https://bernatgel.github.io/karyoploter_tutorial/) - plot customizable linear genomes displaying arbitrary data 绘制任意的线性基因组图
