@@ -24,3 +24,4 @@
 * [magrittr](https://github.com/tidyverse/magrittr) - hadley大神写的-管道操作符
 * [psych](http://personality-project.org/r/psych/) - 统计分析常用包
 * [karyoploteR](https://bernatgel.github.io/karyoploter_tutorial/) - plot customizable linear genomes displaying arbitrary data 绘制任意的线性基因组图
+* [**Thr R graph gallery**](http://www.r-graph-gallery.com/all-graphs/) - R美图代码库
