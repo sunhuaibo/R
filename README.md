@@ -26,4 +26,6 @@
 * [karyoploteR](https://bernatgel.github.io/karyoploter_tutorial/) - plot customizable linear genomes displaying arbitrary data 绘制任意的线性基因组图
 * [**Thr R graph gallery**](http://www.r-graph-gallery.com/all-graphs/) - R美图代码
 * [ggrepel](https://github.com/slowkow/ggrepel) - ggplot插件，解决图形label遮盖问题
+* [ggtree](http://www.bioconductor.org/packages/release/bioc/html/ggtree.html) -绘制进化树
 
+* [ggimage](https://github.com/GuangchuangYu/ggimage) - 添加图片
