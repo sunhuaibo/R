@@ -29,4 +29,4 @@
 * [ggtree](http://www.bioconductor.org/packages/release/bioc/html/ggtree.html) -绘制进化树
 
 * [ggimage](https://github.com/GuangchuangYu/ggimage) - 添加图片
-* [gridextra](https://github.com/baptiste/gridextra/wiki/arranging-ggplot) - 多面板控gridextra、gtable、egg
+* [gridextra](https://github.com/baptiste/gridextra/wiki/arranging-ggplot) - 多面板控gridextra、gtable、egg、grid
