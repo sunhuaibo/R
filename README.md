@@ -36,3 +36,5 @@
 * [igraph](http://igraph.org/r/) - network绘图， https://github.com/kateto/R-Network-Visualization-Workshop 教程
 * [network3D](https://christophergandrud.github.io/networkD3/) - 动态network绘制
 * [常用扩展包](http://www.ggplot2-exts.org/gallery/) - ggplot2常用扩展包
+
+* [plotly](https://plot.ly/ggplot2/) - 赋予ggplot2图形的动态表示，增加鼠标事件
