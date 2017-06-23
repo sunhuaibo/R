@@ -33,6 +33,5 @@
 
 * [GGally](https://ggobi.github.io/ggally/#ggally) - ggpairs 绘制pairs图, pairs()函数也可以绘制
 
-* [igraph](http://igraph.org/r/) - network绘
-
+* [igraph](http://igraph.org/r/) - network绘图， https://github.com/kateto/R-Network-Visualization-Workshop 教程
 * [network3D](https://christophergandrud.github.io/networkD3/) - 动态network绘制
