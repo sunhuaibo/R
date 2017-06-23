@@ -31,4 +31,4 @@
 * [ggimage](https://github.com/GuangchuangYu/ggimage) - 添加图片
 * [gridextra](https://github.com/baptiste/gridextra/wiki/arranging-ggplot) - 多面板控gridextra、gtable、egg、grid
 
-* [GGally](https://ggobi.github.io/ggally/#ggally) - ggpairs 绘制pairs图
+* [GGally](https://ggobi.github.io/ggally/#ggally) - ggpairs 绘制pairs图, pairs()函数也可以绘制
