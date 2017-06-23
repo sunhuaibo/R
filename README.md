@@ -32,3 +32,7 @@
 * [gridextra](https://github.com/baptiste/gridextra/wiki/arranging-ggplot) - 多面板控gridextra、gtable、egg、grid
 
 * [GGally](https://ggobi.github.io/ggally/#ggally) - ggpairs 绘制pairs图, pairs()函数也可以绘制
+
+* [igraph](http://igraph.org/r/) - network绘
+
+* [network3D](https://christophergandrud.github.io/networkD3/) - 动态network绘制
