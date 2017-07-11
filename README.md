@@ -43,4 +43,8 @@ https://www.rdocumentation.org
 
 * [plotly](https://plot.ly/ggplot2/) - 赋予ggplot2图形的动态表示，增加鼠标事件
 
-* [ggpubr](http://www.sthda.com/english/rpkgs/ggpubr/index.html) - 在boxplot上添加显著性标注
+* [ggpubr](http://www.sthda.com/english/rpkgs/ggpubr/index.html) - 在boxplot上添加显著性标
+
+* [survminer](https://github.com/kassambara/survminer) - 生存分析与可视
+
+* [ggsignig](https://github.com/const-ae/ggsignif) - ggplot插件，给boxplot添加显著性标注
