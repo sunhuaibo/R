@@ -47,4 +47,4 @@ https://www.rdocumentation.org
 
 * [survminer](https://github.com/kassambara/survminer) - 生存分析与可视
 
-* [ggsignig](https://github.com/const-ae/ggsignif) - ggplot插件，给boxplot添加显著性标注
+* [ggsignif](https://github.com/const-ae/ggsignif) - ggplot插件，给boxplot添加显著性标注
