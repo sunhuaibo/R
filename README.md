@@ -42,3 +42,5 @@ https://www.rdocumentation.org
 * [常用扩展包](http://www.ggplot2-exts.org/gallery/) - ggplot2常用扩展包
 
 * [plotly](https://plot.ly/ggplot2/) - 赋予ggplot2图形的动态表示，增加鼠标事件
+
+* [ggpubr](http://www.sthda.com/english/rpkgs/ggpubr/index.html) - 在boxplot上添加显著性标注
