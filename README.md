@@ -48,3 +48,5 @@ https://www.rdocumentation.org
 * [survminer](https://github.com/kassambara/survminer) - 生存分析与可视
 
 * [ggsignif](https://github.com/const-ae/ggsignif) - ggplot插件，给boxplot添加显著性标注
+
+* [ggcorrplot](https://github.com/kassambara/ggcorrplot) - 基于ggplot绘制相关性图，类似corrplot
