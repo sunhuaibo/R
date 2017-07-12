@@ -24,6 +24,8 @@ https://bookdown.org/   R电子书
 * [igraph](http://igraph.org/r/) - 绘制network
 * [rCircos](https://cran.r-project.org/web/packages/RCircos/index.html) - R package for circular plots.
 * [OmicCircos](http://www.bioconductor.org/packages/release/bioc/html/OmicCircos.html) -  R package for circular plots for omics data.
+
+* [circlize](http://zuguang.de/circlize_book/book/) - R绘制circos图
 * [ggthemes](https://github.com/jrnold/ggthemes) - 自定义ggplot主题
 * [ggthemr](https://github.com/cttobin/ggthemr) - 另一个ggplot主题插件
 * [gganimate](https://github.com/dgrtwo/gganimate) - 动态图
