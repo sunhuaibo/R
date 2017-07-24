@@ -56,3 +56,5 @@ https://bookdown.org/   R电子书
 * [ggcorrplot](https://github.com/kassambara/ggcorrplot) - 基于ggplot绘制相关性图，类似corrplot
 
 * [GetoptLong](https://github.com/jokergoo/GetoptLong) - 参数设定
+
+* [log4r](https://github.com/johnmyleswhite/log4r)  - 日志文件
