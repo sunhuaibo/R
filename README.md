@@ -31,10 +31,10 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 
 * [stringi](http://www.gagolewski.com/software/stringi/) - 字符转处理神器，优于stringr
 * [igraph](http://igraph.org/r/) - 绘制network
+* [igraph](http://kateto.net/networks-r-igraph) - igraph示例
 * [rCircos](https://cran.r-project.org/web/packages/RCircos/index.html) - R package for circular plots.
 * [OmicCircos](http://www.bioconductor.org/packages/release/bioc/html/OmicCircos.html) -  R package for circular plots for omics data.
-
-* [circlize](http://zuguang.de/circlize_book/book/) - R绘制circos图
+* [circlize](http://zuguang.de/circlize_book/book/) - R绘制circos图 -  [学习网站](http://zuguang.de/circlize_book/book/)
 * [ggthemes](https://github.com/jrnold/ggthemes) - 自定义ggplot主题
 * [ggthemr](https://github.com/cttobin/ggthemr) - 另一个ggplot主题插件
 * [gganimate](https://github.com/dgrtwo/gganimate) - 动态图
@@ -44,30 +44,18 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [**Thr R graph gallery**](http://www.r-graph-gallery.com/all-graphs/) - R美图代码
 * [ggrepel](https://github.com/slowkow/ggrepel) - ggplot插件，解决图形label遮盖问题
 * [ggtree](http://www.bioconductor.org/packages/release/bioc/html/ggtree.html) -绘制进化树
-
 * [ggimage](https://github.com/GuangchuangYu/ggimage) - 添加图片
 * [gridextra](https://github.com/baptiste/gridextra/wiki/arranging-ggplot) - 多面板控gridextra、gtable、egg、grid
-
 * [GGally](https://ggobi.github.io/ggally/#ggally) - ggpairs 绘制pairs图, pairs()函数也可以绘制
-
 * [igraph](http://igraph.org/r/) - network绘图， https://github.com/kateto/R-Network-Visualization-Workshop 教程
 * [network3D](https://christophergandrud.github.io/networkD3/) - 动态network绘制
 * [常用扩展包](http://www.ggplot2-exts.org/gallery/) - ggplot2常用扩展包
-
 * [plotly](https://plot.ly/ggplot2/) - 赋予ggplot2图形的动态表示，增加鼠标事件
-
 * [ggpubr](http://www.sthda.com/english/rpkgs/ggpubr/index.html) - 在boxplot上添加显著性标
-
 * [survminer](https://github.com/kassambara/survminer) - 生存分析与可视
-
 * [ggsignif](https://github.com/const-ae/ggsignif) - ggplot插件，给boxplot添加显著性标注
-
 * [ggcorrplot](https://github.com/kassambara/ggcorrplot) - 基于ggplot绘制相关性图，类似corrplot
-
 * [GetoptLong](https://github.com/jokergoo/GetoptLong) - 参数设定
-
 * [log4r](https://github.com/johnmyleswhite/log4r)  - 日志文件
-
 * [futile.logger](https://github.com/zatonovo/futile.logger) - 日志
-
 * [caret](https://github.com/topepo/caret) - Classification And Regression Training)
