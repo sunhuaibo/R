@@ -30,8 +30,8 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
     ylim=c(5, 20), level=.95, fill=TRUE, fill.alpha=0.1))
 
 * [stringi](http://www.gagolewski.com/software/stringi/) - 字符转处理神器，优于stringr
-* [igraph](http://igraph.org/r/) - 绘制network
-* [igraph](http://kateto.net/networks-r-igraph) - igraph示例
+* [igraph](http://igraph.org/r/) - 绘制network [igraph示例](http://kateto.net/networks-r-igraph)
+* [gephi](https://gephi.org/) - 绘制network
 * [rCircos](https://cran.r-project.org/web/packages/RCircos/index.html) - R package for circular plots.
 * [OmicCircos](http://www.bioconductor.org/packages/release/bioc/html/OmicCircos.html) -  R package for circular plots for omics data.
 * [circlize](http://zuguang.de/circlize_book/book/) - R绘制circos图 -  [学习网站](http://zuguang.de/circlize_book/book/)
