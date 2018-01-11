@@ -59,3 +59,4 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [log4r](https://github.com/johnmyleswhite/log4r)  - 日志文件
 * [futile.logger](https://github.com/zatonovo/futile.logger) - 日志
 * [caret](https://github.com/topepo/caret) - Classification And Regression Training)
+* [effects](https://cran.r-project.org/web/packages/effects/index.html) - Effect Displays for Linear, Generalized Linear, and Other Models
