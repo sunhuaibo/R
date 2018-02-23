@@ -29,6 +29,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
     group.labels=c("Blue Collar", "Professional", "White Collar"),
     ylim=c(5, 20), level=.95, fill=TRUE, fill.alpha=0.1))
 
+* [ggalluvial](https://github.com/corybrunson/ggalluvial) - 冲击图(alluvial diagram)
 * [stringi](http://www.gagolewski.com/software/stringi/) - 字符转处理神器，优于stringr
 * [igraph](http://igraph.org/r/) - 绘制network [igraph示例](http://kateto.net/networks-r-igraph)
 * [gephi](https://gephi.org/) - 绘制network
