@@ -63,3 +63,5 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [effects](https://cran.r-project.org/web/packages/effects/index.html) - Effect Displays for Linear, Generalized Linear, and Other Models
 * [mclust](https://cran.r-project.org/web/packages/mclust/vignettes/mclust.html) - clustering, classification, and density estimation based on finite normal mixture modelling, 确定聚类数目
 * [flexmix](https://cran.r-project.org/web/packages/flexmix/index.html) - 有限混合模型分析
+
+* [networkD3](https://cran.r-project.org/web/packages/networkD3/) - 绘制sankey plot
