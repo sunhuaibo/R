@@ -66,3 +66,4 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/) - 绘制sankey plot
 * [motifStack](http://bioconductor.org/packages/release/bioc/vignettes/motifStack/inst/doc/motifStack_HTML.html) - 绘制motif图
+* [ggseqlogo](https://omarwagih.github.io/ggseqlogo/) - 基于ggplot绘制motif图
