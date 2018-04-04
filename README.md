@@ -15,7 +15,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 
 #### 收集包
 
-
+* [dada2](http://www.bioconductor.org/packages/release/bioc/vignettes/dada2/inst/doc/dada2-intro.html) - 16s OTU
 * [viridis](https://github.com/sjmgarnier/viridis) - 颜色
 * [showtext](https://cran.r-project.org/web/packages/showtext/vignettes/introduction.html) - 解决字体问题      
 * [corrplot](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html) - 相关性绘图       
