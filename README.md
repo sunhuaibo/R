@@ -72,3 +72,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 ### 数据挖掘
 
 * [mclust](https://cran.r-project.org/web/packages/mclust/vignettes/mclust.html) - 基于高斯模型进行聚类，可根据BIC筛选合适的k值
+
+### 生存分析
+* [survival](https://cran.r-project.org/web/packages/survival/index.html) - 生存分析
+* [survminer](https://cran.r-project.org/web/packages/survminer/index.html) - 生存绘图
