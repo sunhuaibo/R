@@ -68,6 +68,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [motifStack](http://bioconductor.org/packages/release/bioc/vignettes/motifStack/inst/doc/motifStack_HTML.html) - 绘制motif图
 * [ggseqlogo](https://omarwagih.github.io/ggseqlogo/) - 基于ggplot绘制motif图
 * [rPlotter](https://github.com/woobe/rPlotter) - 从图片中提取颜色
+* [nVennR](https://cran.r-project.org/web/packages/nVennR/vignettes/nVennR.html) - venn图
 
 ### 数据挖掘
 
