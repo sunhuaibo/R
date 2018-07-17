@@ -1,9 +1,7 @@
 # R
 
 https://www.rdocumentation.org  R包下载排名
-
 https://bookdown.org/   R电子书
-
 
 http://www.dafont.com/search.php?q=people&page=2 好玩的字体
 
@@ -78,3 +76,4 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 ### 生存分析
 * [survival](https://cran.r-project.org/web/packages/survival/index.html) - 生存分析
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html) - 生存绘图
+* [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html)
