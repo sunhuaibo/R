@@ -68,6 +68,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [rPlotter](https://github.com/woobe/rPlotter) - 从图片中提取颜色
 * [nVennR](https://cran.r-project.org/web/packages/nVennR/vignettes/nVennR.html) - venn图
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/vignettes/forestplot.html) - 森林图
+* [ggpubr](http://www.sthda.com/english/rpkgs/ggpubr/) - 基于ggplot2的绘图
 
 ### 数据挖掘
 
