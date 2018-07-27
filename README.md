@@ -77,3 +77,5 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [survival](https://cran.r-project.org/web/packages/survival/index.html) - 生存分析
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html) - 生存绘图
 * [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html)
+
+* [maftools.](http://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - 突变数据分析绘图
