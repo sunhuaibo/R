@@ -83,3 +83,6 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [maftools.](http://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - 突变数据分析绘图
 
 * [xCell](https://github.com/dviraran/xCell) - xCell is a webtool that performs cell type enrichment analysis from gene expression data for 64 immune and stroma cell types.
+* [philentropy](https://github.com/HajkD/philentropy) - 46种距离算法
+
+* [survminer](https://cran.r-project.org/web/packages/survminer/index.html) - 生存绘图
