@@ -74,7 +74,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 
 * [mclust](https://cran.r-project.org/web/packages/mclust/vignettes/mclust.html) - 基于高斯模型进行聚类，可根据BIC筛选合适的k值
 * [factoextra](http://www.sthda.com/english/wiki/factoextra-r-package-easy-multivariate-data-analyses-and-elegant-visualization) - PCA分析
-* [CNMF](https://www.bioconductor.org/packages/devel/bioc/vignettes/CancerSubtypes/inst/doc/CancerSubtypes-vignette.html) - 可根据RNAseq的数据进行样本聚类，分类
+* [cNMF](https://www.bioconductor.org/packages/devel/bioc/vignettes/CancerSubtypes/inst/doc/CancerSubtypes-vignette.html) - 可根据RNAseq的数据进行样本聚类，分类
 
 ### 生存分析
 * [survival](https://cran.r-project.org/web/packages/survival/index.html) - 生存分析
