@@ -70,6 +70,10 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/vignettes/forestplot.html) - 森林图
 * [ggpubr](http://www.sthda.com/english/rpkgs/ggpubr/) - 基于ggplot2的绘图
 
+### venn图
+* [UpSetR](https://cran.r-project.org/web/packages/UpSetR/vignettes/basic.usage.html)
+* [ggupset](https://github.com/const-ae/ggupset)
+
 ### 数据挖掘
 
 * [mclust](https://cran.r-project.org/web/packages/mclust/vignettes/mclust.html) - 基于高斯模型进行聚类，可根据BIC筛选合适的k值
