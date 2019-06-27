@@ -69,6 +69,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [nVennR](https://cran.r-project.org/web/packages/nVennR/vignettes/nVennR.html) - venn图
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/vignettes/forestplot.html) - 森林图
 * [ggpubr](http://www.sthda.com/english/rpkgs/ggpubr/) - 基于ggplot2的绘图
+* [lolliplot](https://www.bioconductor.org/packages/release/bioc/vignettes/trackViewer/inst/doc/trackViewer.html#lolliplot) 绘制突变的needle图
 
 ### venn图
 * [UpSetR](https://cran.r-project.org/web/packages/UpSetR/vignettes/basic.usage.html)
@@ -88,7 +89,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html)
 
 ###
-* [maftools.](http://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - 突变数据分析绘图
+* [maftools](http://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - 突变数据分析绘图
 
 * [xCell](https://github.com/dviraran/xCell) - xCell is a webtool that performs cell type enrichment analysis from gene expression data for 64 immune and stroma cell types.
 * [philentropy](https://github.com/HajkD/philentropy) - 46种距离算法
