@@ -85,13 +85,11 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 ### 生存分析
 * [survivalROC](https://cran.r-project.org/web/packages/survivalROC/index.html) - 生存数据中的连续变量的通过ROC计算获得最优值
 * [survival](https://cran.r-project.org/web/packages/survival/index.html) - 生存分析
+* [rms](https://cran.r-project.org/web/packages/rms/index.html) - 绘制nomogram图
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html) - 生存绘图
 * [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html)
 
 ###
 * [maftools](http://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - 突变数据分析绘图
-
 * [xCell](https://github.com/dviraran/xCell) - xCell is a webtool that performs cell type enrichment analysis from gene expression data for 64 immune and stroma cell types.
 * [philentropy](https://github.com/HajkD/philentropy) - 46种距离算法
-
-* [survminer](https://cran.r-project.org/web/packages/survminer/index.html) - 生存绘图
