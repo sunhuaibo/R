@@ -86,6 +86,8 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [survivalROC](https://cran.r-project.org/web/packages/survivalROC/index.html) - 生存数据中的连续变量的通过ROC计算获得最优值
 * [survival](https://cran.r-project.org/web/packages/survival/index.html) - 生存分析
 * [rms](https://cran.r-project.org/web/packages/rms/index.html) - 绘制nomogram图
+* [randomForestSRC](https://kogalur.github.io/randomForestSRC/theory.html) - Random Forests for Survival, Regression, and Classification
+* [ranger](https://cran.r-project.org/web/packages/ranger/index.html) - Ensembles of classification, regression, survival and probability prediction trees are supported
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html) - 生存绘图
 * [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html)
 
