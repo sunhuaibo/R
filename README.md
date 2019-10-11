@@ -81,6 +81,8 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [factoextra](http://www.sthda.com/english/wiki/factoextra-r-package-easy-multivariate-data-analyses-and-elegant-visualization) - PCA分析
 * [cNMF](https://www.bioconductor.org/packages/devel/bioc/vignettes/CancerSubtypes/inst/doc/CancerSubtypes-vignette.html) - 可根据RNAseq的数据进行样本聚类，分类
 * [ConsensusClusterPlus](http://www.bioconductor.org/packages/release/bioc/html/ConsensusClusterPlus.html) - 分析RNAseq，用于聚类
+* [cluster](https://cran.r-project.org/web/packages/cluster/index.html) - Cluster Analysis Extended Rousseeuw et al，有pam方法
+* [NMF](https://cran.r-project.org/web/packages/NMF/index.html)
 
 ### 生存分析
 * [survivalROC](https://cran.r-project.org/web/packages/survivalROC/index.html) - 生存数据中的连续变量的通过ROC计算获得最优值
