@@ -20,7 +20,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/vignettes/forestplot.html) - 森林图
 * [lolliplot](https://www.bioconductor.org/packages/release/bioc/vignettes/trackViewer/inst/doc/trackViewer.html#lolliplot) 绘制突变的needle图
 * [igraph](http://igraph.org/r/) - 绘制network [igraph示例](http://kateto.net/networks-r-igraph)
-* [igraph](http://igraph.org/r/) - network绘图， https://github.com/kateto/R-Network-Visualization-Workshop 教程
+* [igraph](http://igraph.org/r/) - network绘图， [教程](https://github.com/kateto/R-Network-Visualization-Workshop)
 * [gephi](https://gephi.org/) - 绘制network
 * [rCircos](https://cran.r-project.org/web/packages/RCircos/index.html) - R package for circular plots.
 * [OmicCircos](http://www.bioconductor.org/packages/release/bioc/html/OmicCircos.html) -  R package for circular plots for omics data.
