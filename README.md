@@ -57,7 +57,7 @@
 * [rPlotter](https://github.com/woobe/rPlotter) - 从图片中提取颜色
 * [circlize](https://jokergoo.github.io/circlize_book/book/) - circlize包中的colorRamp2函数可以依据值域设置颜色，并根据提供的值返回颜色
 
-```
+```R
     col_fun = colorRamp2(c(-1, 0, 1), c("green", "white", "red")) 
     col_fun(0.5) # 返回"#FF9E81FF" 
 ```
@@ -72,12 +72,15 @@
 * [tidyverse](https://www.tidyverse.org/) - 数据分析套件，包括ggplot2、tidyr、dplyr、readr、purrr等包
 * [broom](https://github.com/tidyverse/broom) - 汇总统计分析结果
 * [car](https://cran.r-project.org/web/packages/car/index.html) - Scatter plot with ellipses
->   
+
+```R
     library(car) 
     with(Prestige, dataEllipse(income, education, type, id.n=2, pch=15:17,
     labels=rownames(Prestige), xlim=c(0, 25000), center.pch="+",
     group.labels=c("Blue Collar", "Professional", "White Collar"),
     ylim=c(5, 20), level=.95, fill=TRUE, fill.alpha=0.1))
+```
+
 * [psych](http://personality-project.org/r/psych/) - 统计分析常用包
 * [effects](https://cran.r-project.org/web/packages/effects/index.html) - Effect Displays for Linear, Generalized Linear, and Other Models
 * [flexmix](https://cran.r-project.org/web/packages/flexmix/index.html) - 有限混合模型分析
