@@ -86,6 +86,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [ConsensusClusterPlus](http://www.bioconductor.org/packages/release/bioc/html/ConsensusClusterPlus.html) - 分析RNAseq，用于聚类
 * [cluster](https://cran.r-project.org/web/packages/cluster/index.html) - Cluster Analysis Extended Rousseeuw et al，有pam方法
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html)
+* [rstatix](https://rpkgs.datanovia.com/rstatix/index.html) - 辅助数据处理，比如，增强版的t_test()函数
 
 ### 生存分析
 * [survivalROC](https://cran.r-project.org/web/packages/survivalROC/index.html) - 生存数据中的连续变量的通过ROC计算获得最优值
