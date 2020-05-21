@@ -100,7 +100,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [ConsensusClusterPlus](http://www.bioconductor.org/packages/release/bioc/html/ConsensusClusterPlus.html) - 分析RNAseq，用于聚类
 * [cluster](https://cran.r-project.org/web/packages/cluster/index.html) - Cluster Analysis Extended Rousseeuw et al，有pam方法
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html)
-* [rstatix](https://rpkgs.datanovia.com/rstatix/index.html) - 辅助数据处理，比如，增强版的t_test()函数
+* [rstatix](https://rpkgs.datanovia.com/rstatix/index.html) - 辅助数据处理，比如，增强版的`t_test()`函数
 * [philentropy](https://github.com/HajkD/philentropy) - 46种距离算法
 
 ### 生存分析
