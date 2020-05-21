@@ -18,7 +18,6 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 
 * [**Thr R graph gallery**](http://www.r-graph-gallery.com/all-graphs/) - R美图代码
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/vignettes/forestplot.html) - 森林图
-
 * [lolliplot](https://www.bioconductor.org/packages/release/bioc/vignettes/trackViewer/inst/doc/trackViewer.html#lolliplot) 绘制突变的needle图
 * [igraph](http://igraph.org/r/) - 绘制network [igraph示例](http://kateto.net/networks-r-igraph)
 * [igraph](http://igraph.org/r/) - network绘图， https://github.com/kateto/R-Network-Visualization-Workshop 教程
@@ -28,7 +27,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [circlize](http://zuguang.de/circlize_book/book/) - R绘制circos图 -  [学习网站](http://zuguang.de/circlize_book/book/)
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/) - 绘制sankey plot
 * [network3D](https://christophergandrud.github.io/networkD3/) - 动态network绘制
-* [corrplot](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html) - 相关性绘图       
+* [corrplot](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html) - 相关性绘图
 * [ComplexHeatmap](https://jokergoo.github.io/ComplexHeatmap-reference/book/) - 绘制heatmap图，以及oncoprint图
 
 ### 基于ggplot2的绘图
@@ -118,7 +117,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [karyoploteR](https://bernatgel.github.io/karyoploter_tutorial/) - plot customizable linear genomes displaying arbitrary data 绘制任意的线性基因组图
 * [dada2](http://www.bioconductor.org/packages/release/bioc/vignettes/dada2/inst/doc/dada2-intro.html) - 16s OTU
 
-#### 其他常用
+### 其他常用
 
 * [magrittr](https://github.com/tidyverse/magrittr) - hadley大神写的-管道操作符
 * [optparse](https://github.com/trevorld/r-optparse) - R参数
