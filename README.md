@@ -59,7 +59,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [circlize](https://jokergoo.github.io/circlize_book/book/) - circlize包中的colorRamp2函数可以依据值域设置颜色，并根据提供的值返回颜色
 
 > col_fun = colorRamp2(c(-1, 0, 1), c("green", "white", "red"))
-  col_fun(0.5) # 返回"#FF9E81FF"
+> col_fun(0.5) # 返回"#FF9E81FF"
 
 ### 字符串处理
 
