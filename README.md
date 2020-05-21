@@ -56,7 +56,11 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [viridis](https://github.com/sjmgarnier/viridis) - 颜色设定
 * [showtext](https://cran.r-project.org/web/packages/showtext/vignettes/introduction.html) - 解决字体问题
 * [rPlotter](https://github.com/woobe/rPlotter) - 从图片中提取颜色
-* [circlize](https://jokergoo.github.io/circlize_book/book/） - circlize包中的colorRamp2函数可以依据值域设置颜色，并根据提供的值返回颜色
+* [circlize](https://jokergoo.github.io/circlize_book/book/) - circlize包中的colorRamp2函数可以依据值域设置颜色，并根据提供的值返回颜色
+
+>
+  col_fun = colorRamp2(c(-1, 0, 1), c("green", "white", "red"))
+  col_fun(0.5) # 返回"#FF9E81FF"
 
 ### 字符串处理
 
