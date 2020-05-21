@@ -19,12 +19,12 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [**Thr R graph gallery**](http://www.r-graph-gallery.com/all-graphs/) - R美图代码
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/vignettes/forestplot.html) - 森林图
 * [lolliplot](https://www.bioconductor.org/packages/release/bioc/vignettes/trackViewer/inst/doc/trackViewer.html#lolliplot) 绘制突变的needle图
-* [igraph](http://igraph.org/r/) - 绘制network [igraph示例](http://kateto.net/networks-r-igraph)
-* [igraph](http://igraph.org/r/) - network绘图， [教程](https://github.com/kateto/R-Network-Visualization-Workshop)
+* [igraph](http://igraph.org/r/) - 绘制network, [igraph示例](http://kateto.net/networks-r-igraph)
+* [igraph](http://igraph.org/r/) - network绘图, [教程](https://github.com/kateto/R-Network-Visualization-Workshop)
 * [gephi](https://gephi.org/) - 绘制network
 * [rCircos](https://cran.r-project.org/web/packages/RCircos/index.html) - R package for circular plots.
 * [OmicCircos](http://www.bioconductor.org/packages/release/bioc/html/OmicCircos.html) -  R package for circular plots for omics data.
-* [circlize](http://zuguang.de/circlize_book/book/) - R绘制circos图 -  [学习网站](http://zuguang.de/circlize_book/book/)
+* [circlize](http://zuguang.de/circlize_book/book/) - R绘制circos图, [学习网站](http://zuguang.de/circlize_book/book/)
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/) - 绘制sankey plot
 * [network3D](https://christophergandrud.github.io/networkD3/) - 动态network绘制
 * [corrplot](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html) - 相关性绘图
@@ -96,6 +96,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [cluster](https://cran.r-project.org/web/packages/cluster/index.html) - Cluster Analysis Extended Rousseeuw et al，有pam方法
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html)
 * [rstatix](https://rpkgs.datanovia.com/rstatix/index.html) - 辅助数据处理，比如，增强版的t_test()函数
+* [philentropy](https://github.com/HajkD/philentropy) - 46种距离算法
 
 ### 生存分析
 
@@ -112,7 +113,6 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 
 * [maftools](http://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - 突变数据分析绘图
 * [xCell](https://github.com/dviraran/xCell) - xCell is a webtool that performs cell type enrichment analysis from gene expression data for 64 immune and stroma cell types.
-* [philentropy](https://github.com/HajkD/philentropy) - 46种距离算法
 * [classInt](https://cran.r-project.org/web/packages/classInt/) - 连续变量分类
 * [karyoploteR](https://bernatgel.github.io/karyoploter_tutorial/) - plot customizable linear genomes displaying arbitrary data 绘制任意的线性基因组图
 * [dada2](http://www.bioconductor.org/packages/release/bioc/vignettes/dada2/inst/doc/dada2-intro.html) - 16s OTU
