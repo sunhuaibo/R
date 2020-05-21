@@ -2,9 +2,9 @@
 - [1. 网站收藏](#网站收藏)
 - [2. 绘图](#绘图)
 - [3. 基于ggplot2的绘图](#基于ggplot2的绘图)
-- [4. 颜色/字体设定](#颜色/字体设定)
+- [4. 颜色和字体设定](#颜色和字体设定)
 - [5. 字符串处理](#字符串处理)
-- [6. 数据清洗/统计分析](#数据清洗/统计分析)
+- [6. 数据清洗和统计分析](#数据清洗和统计分析)
 - [7. venn图](#venn图)
 - [8. 数据挖掘](#数据挖掘)
 - [9. 生存分析](#生存分析)
@@ -61,7 +61,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [ggseqlogo](https://omarwagih.github.io/ggseqlogo/) - 基于ggplot绘制motif图
 * [plotly](https://plot.ly/ggplot2/) - 赋予ggplot2图形的动态表示，增加鼠标事件
 
-### 颜色/字体设定
+### 颜色和字体设定
 
 * [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html) - 颜色设定
 * [viridis](https://github.com/sjmgarnier/viridis) - 颜色设定
@@ -79,7 +79,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [stringr](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html) - 字符串处理   
 * [stringi](http://www.gagolewski.com/software/stringi/) - 字符转处理神器，优于stringr
 
-### 数据清洗/统计分析
+### 数据清洗和统计分析
 
 * [tidyverse](https://www.tidyverse.org/) - 数据分析套件，包括ggplot2、tidyr、dplyr、readr、purrr等包
 * [broom](https://github.com/tidyverse/broom) - 汇总统计分析结果
