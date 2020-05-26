@@ -114,6 +114,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html)
 * [rstatix](https://rpkgs.datanovia.com/rstatix/index.html) - 辅助数据处理，比如，增强版的`t_test()`函数
 * [philentropy](https://github.com/HajkD/philentropy) - 46种距离算法
+* [glmnet](https://glmnet.stanford.edu/index.html) - Lasso and Elastic-Net Regularized Generalized Linear Models，变量筛选
 
 ### 生存分析
 
