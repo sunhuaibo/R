@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # R
 
 https://www.rdocumentation.org  R包下载排名
