@@ -1,0 +1,60 @@
+---
+title: "phangorn"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### 肿瘤进化树
+
+- 加载phangorn包
+
+```{r, echo=TRUE, warning=FALSE, message=FALSE}
+library(phangorn)
+
+```
+
+```{r, echo=F, warning=FALSE, message=FALSE}
+library(readxl)
+library(tidyverse)
+```
+
+
+- 读取突变的数据，存给变量df，设置成0,1的格式，1代表突变，0代表不突变
+
+
+```{r, echo=F}
+df <- read_excel("D:/GeneCast/Project/王秀芳/ZT_C1D0_T-T2D1-T3D-1Tumor.final.mutation List-5.27.xlsx")
+
+df <- df %>% unite("id", Chr, Start, End, ref, alt, sep = "_") %>%
+  select(id,Tumor_Sample_Barcode, freq) %>%
+  spread(Tumor_Sample_Barcode, freq, fill = 0) %>%
+  as.data.frame()
+
+rownames(df) <- df$id
+df$id <- NULL
+df$Germline <- 0
+
+df <- as.data.frame(ifelse(df > 0, 1, 0))
+
+
+```
+
+```{r}
+head(df)
+```
+
+```{r}
+
+df <- phyDat(t(df), type = "USER", levels = c(1, 0))
+dm <- dist.hamming(df)
+tree <- NJ(dm)
+treeRatchet <- pratchet(df, start=tree, maxit=100,
+                        minit=5, k=5, trace=0)
+treeRatchet <- acctran(treeRatchet, df)
+plot(treeRatchet, type = "unrooted")
+
+```
+
