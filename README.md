@@ -249,4 +249,3 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [SummarizedExperiment](https://bioconductor.org/packages/release/bioc/vignettes/SummarizedExperiment/inst/doc/SummarizedExperiment.html#constructing-a-summarizedexperiment) - 构建S4对象数据集
 * [ExpressionSet](https://www.bioconductor.org/packages/release/bioc/vignettes/Biobase/inst/doc/ExpressionSetIntroduction.pdf) - 构建S4对象数据集
 
->>>>>>> c88d04e85a8ccd044bdf8ea86031ec3365cf746b
