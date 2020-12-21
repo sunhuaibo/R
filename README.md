@@ -1,6 +1,19 @@
 
 # R
 
+=======
+## 目录
+- [1. 网站收藏](#网站收藏)
+- [2. 绘图](#绘图)
+- [3. 基于ggplot2的绘图](#基于ggplot2的绘图)
+- [4. 颜色和字体设定](#颜色和字体设定)
+- [5. 字符串处理](#字符串处理)
+- [6. 数据清洗和统计分析](#数据清洗和统计分析)
+- [7. venn图](#venn图)
+- [8. 数据挖掘](#数据挖掘)
+- [9. 生存分析](#生存分析)
+- [10. NGS数据分析](#NGS数据分析)
+
 https://www.rdocumentation.org  R包下载排名
 https://bookdown.org/   R电子书
 
@@ -100,18 +113,6 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [maftools](http://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - 突变数据分析绘图
 * [xCell](https://github.com/dviraran/xCell) - xCell is a webtool that performs cell type enrichment analysis from gene expression data for 64 immune and stroma cell types.
 * [philentropy](https://github.com/HajkD/philentropy) - 46种距离算法
-=======
-## 目录
-- [1. 网站收藏](#网站收藏)
-- [2. 绘图](#绘图)
-- [3. 基于ggplot2的绘图](#基于ggplot2的绘图)
-- [4. 颜色和字体设定](#颜色和字体设定)
-- [5. 字符串处理](#字符串处理)
-- [6. 数据清洗和统计分析](#数据清洗和统计分析)
-- [7. venn图](#venn图)
-- [8. 数据挖掘](#数据挖掘)
-- [9. 生存分析](#生存分析)
-- [10. NGS数据分析](#NGS数据分析)
 
 ### 网站收藏
 
