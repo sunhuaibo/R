@@ -110,6 +110,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html) - 生存绘图
 * [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html)
 * [maxstat](https://cran.r-project.org/web/packages/maxstat/index.html) - 最佳cutoff值
+* [forestmodel](https://github.com/cran/forestmodel) - 森林图
 
 ###
 * [maftools](http://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - 突变数据分析绘图
