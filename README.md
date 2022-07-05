@@ -233,7 +233,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [ranger](https://cran.r-project.org/web/packages/ranger/index.html) - Ensembles of classification, regression, survival and probability prediction trees are supported
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html) - 生存绘图
 * [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html)
-
+* [epiR](https://cran.r-project.org/web/packages/epiR/index.html) - 流行病学数据分析工具 
 
 ### NGS数据分析
 
