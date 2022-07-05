@@ -102,17 +102,6 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html)
 * [cvTools](https://cran.r-project.org/web/packages/cvTools/index.html) - 交叉验证
 
-### 生存分析
-* [survivalROC](https://cran.r-project.org/web/packages/survivalROC/index.html) - 生存数据中的连续变量的通过ROC计算获得最优值
-* [survival](https://cran.r-project.org/web/packages/survival/index.html) - 生存分析
-* [rms](https://cran.r-project.org/web/packages/rms/index.html) - 绘制nomogram图
-* [randomForestSRC](https://kogalur.github.io/randomForestSRC/theory.html) - Random Forests for Survival, Regression, and Classification
-* [ranger](https://cran.r-project.org/web/packages/ranger/index.html) - Ensembles of classification, regression, survival and probability prediction trees are supported
-* [survminer](https://cran.r-project.org/web/packages/survminer/index.html) - 生存绘图
-* [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html)
-* [maxstat](https://cran.r-project.org/web/packages/maxstat/index.html) - 最佳cutoff值
-* [forestmodel](https://github.com/cran/forestmodel) - 森林图
-
 ###
 * [maftools](http://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - 突变数据分析绘图
 * [xCell](https://github.com/dviraran/xCell) - xCell is a webtool that performs cell type enrichment analysis from gene expression data for 64 immune and stroma cell types.
@@ -234,6 +223,8 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html) - 生存绘图
 * [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html)
 * [epiR](https://cran.r-project.org/web/packages/epiR/index.html) - 流行病学数据分析工具 
+* [maxstat](https://cran.r-project.org/web/packages/maxstat/index.html) - 最佳cutoff值
+* [forestmodel](https://github.com/cran/forestmodel) - 森林图
 
 ### NGS数据分析
 
