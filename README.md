@@ -225,7 +225,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [epiR](https://cran.r-project.org/web/packages/epiR/index.html) - 流行病学数据分析工具 
 * [maxstat](https://cran.r-project.org/web/packages/maxstat/index.html) - 最佳cutoff值
 * [forestmodel](https://github.com/cran/forestmodel) - 森林图
-* [MatchIt](https://kosukeimai.github.io/MatchIt/reference/index.html)
+* [MatchIt](https://kosukeimai.github.io/MatchIt/reference/index.html) - 倾向性匹配
 
 ### NGS数据分析
 
