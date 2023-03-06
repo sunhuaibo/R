@@ -226,7 +226,7 @@ http://www.dafont.com/wm-people-1.font    wm-people字体
 * [maxstat](https://cran.r-project.org/web/packages/maxstat/index.html) - 最佳cutoff值
 * [forestmodel](https://github.com/cran/forestmodel) - 森林图
 * [MatchIt](https://kosukeimai.github.io/MatchIt/reference/index.html) - 倾向性匹配
-* [coxphf] - Cox Regression with Firth's Penalized Likelihood
+* [coxphf](https://cran.r-project.org/web/packages/coxphf/index.html) - Cox Regression with Firth's Penalized Likelihood
 
 ### NGS数据分析
 
